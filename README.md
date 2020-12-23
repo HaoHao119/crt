@@ -20,7 +20,7 @@ pip install -r requirements.txt
 使用
 
 ```bash
-打开目录下的crt.py文件，将网站修改为您要获取子域名的url即可
+ 打开目录下的crt.py文件，将网站修改为您要获取子域名的url即可
 ```
 
 

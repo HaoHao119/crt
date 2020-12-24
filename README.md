@@ -24,4 +24,8 @@ pip install -r requirements.txt
  python crt.py -u url -t text.txt
 ```
 
+```bash
+ python3 crt.py -u url -t text.txt
+```
+
 

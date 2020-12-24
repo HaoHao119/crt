@@ -21,7 +21,7 @@ pip install -r requirements.txt
 使用
 
 ```bash
- python crt -u url -t text.txt
+ python crt.py -u url -t text.txt
 ```
 
 
